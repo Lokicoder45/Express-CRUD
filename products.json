@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2,
+    "name": "Apples",
+    "price": 250,
+    "description": "Fresh apples",
+    "quantity": 20,
+    "product_type": "Grocery"
+  },
+  {
+    "id": 3,
+    "name": "T-shirt",
+    "price": 750,
+    "description": "Comfortable cotton t-shirt",
+    "quantity": 3,
+    "product_type": "Clothing"
+  },
+  {
+    "id": 1,
+    "name": "Updated Laptop",
+    "price": 80000,
+    "description": "Upgraded laptop for enhanced productivity",
+    "quantity": 20,
+    "product_type": "Electronics"
+  },
+ 
+  [
+    {
+      "id": 4,
+      "name": "Iphone 12pro",
+      "price": 143000,
+      "description": "Powerful tool for creativity",
+      "quantity": 15,
+      "product_type": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Hoodies",
+      "price": 3000,
+      "description": "Styles Hoddies for unisex",
+      "quantity": 50,
+      "product_type": "clothes"
+    }
+  ]
+]
